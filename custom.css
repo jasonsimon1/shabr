@@ -1,0 +1,5 @@
+html
+body {
+    background: linear-gradient, url('../img/balloon-1.jpg');
+    background-size: cover;
+}
