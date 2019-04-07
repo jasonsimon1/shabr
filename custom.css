@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html
 body {
     display:table;
@@ -22,6 +23,8 @@ body {
 
 
 
+=======
+>>>>>>> e358b3152e1e04fb0a5c476524282da06f08c1f9
 h1{
     font-size: 60px;
     
@@ -29,16 +32,30 @@ h1{
 
 h2{
     font-size: 30px;
+     color:black;
 }
 
 h3{
     font-size: 30px;
+     color:black;
 }
 
 h4{
     font-size: 30px;
+     color:black;
 }
 
 h5{
     font-size: 30px;
+     color:black;
+}
+
+p{
+    color:black;
+}
+
+p2{
+    font-size:15px;
+    font-family: inherit;
+    text-align: center;
 }
